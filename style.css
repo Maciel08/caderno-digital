@@ -21,11 +21,11 @@ nav li a{
 }
 
 nav li{
-    float: right;
+    float: left;
 }
 
 nav ul{
-    float: left;
+    float: center;
     list-style: none;
 }
 
