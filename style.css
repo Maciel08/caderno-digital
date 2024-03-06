@@ -21,7 +21,7 @@ nav li a{
 }
 
 nav li{
-    float: left;
+    float: right;
 }
 
 nav ul{
@@ -33,7 +33,7 @@ section nav{
     font-size: 18px;
     letter-spacing: 4px;
     height: 50px;
-    background-color: white;
+    background-color: #E3E4E6;
 }
 
 footer{
