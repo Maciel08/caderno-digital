@@ -25,7 +25,7 @@ nav li{
 }
 
 nav ul{
-    float: right;
+    float: left;
     list-style: none;
 }
 
